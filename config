@@ -1,1 +1,5 @@
 baud_rate=9600
+stop_bits=1
+data_bits=8
+parity=no
+flow_control=no
